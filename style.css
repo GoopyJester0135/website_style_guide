@@ -1,0 +1,143 @@
+body {
+    background-color: #979aaa;
+    color: #faf0e6;
+    font-family: Agdasima;
+}
+
+h1 {
+    color: rgb(00, 80, 80)
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    color: #faf0e6;
+    text-decoration: none;
+}
+
+.color_cont {
+    border: 5px solid #7db8b3;
+    border-radius: 15px;
+
+}
+
+.colors {
+    font-family: 'Poiret One';
+    width: auto;
+    color: #faf0e6;
+    text-align: center;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.colors .color_text {
+    margin: 10% auto;
+}
+
+#color1 {
+    margin: 10px;
+    width: 30%;
+    background-color: #faf0e6;
+    color: rgb(00, 80, 80);
+    border-radius: 15%;
+}
+
+#color1 a {
+    color: rgb(00, 80, 80);
+}
+
+#color2 {
+    margin: 10px;
+    width: 30%;
+}
+
+#color3 {
+    margin: 10px;
+    width: 30%;
+    background-color: rgb(00, 80, 80);
+    border-radius: 15%;
+}
+
+#color4 {
+    text-align: center;
+    width: auto;
+    margin: 0px auto;
+    color: rgb(00, 80, 80);
+    background-color: #7db8b3;
+}
+
+.font {
+    display: flex;
+    flex-direction: column;
+}
+
+#font1 {
+    margin: 0px;
+    text-align: center;
+    border-width: 5px 0px 0px 0px;
+    border-color: #7db8b3;
+    border-style: solid;
+    font-family: Agdasima;
+}
+
+#font2 {
+    margin: 0px;
+    text-align: center;
+    border-width: 0px 0px 5px 0px;
+    border-color: #7db8b3;
+    border-style: solid;
+    font-family: 'Poiret One';
+}
+
+#font2 a {
+    color: rgb(00, 80, 80);
+}
+
+
+.style_cont {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#style1 {
+    margin: 0px 10%;
+}
+
+
+.style_cont_in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#style2 {
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid #7db8b3;
+    border-radius: 15px;
+}
+
+#style2 p {
+    margin: 0px;
+}
+
+#style3 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid #7db8b3;
+    border-radius: 15px;
+}
+
+#style3 p {
+    margin: 0px;
+}
+
+#style4 h2 {
+    text-align: left;
+}
